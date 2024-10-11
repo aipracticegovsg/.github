@@ -1,1 +1,1 @@
-# .github
+# GovTech AI Practice
